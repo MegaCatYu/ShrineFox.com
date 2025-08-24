@@ -165,7 +165,8 @@
 				<center>
 					<b>Support Nintendo by playing EarthBound on <a href="https://www.nintendo.com/us/store/products/super-nintendo-entertainment-system-nintendo-switch-online-switch/">Nintendo Switch Online</a>.</b>
 					<br><h1>DOWNLOAD</h1>
-					<a href="https://github.com/ShrineFox/EarthBound-Mod-Menu/releases/"><img src="./images/projects/EarthBound/eb_present.png" style="height:32px;"> v0.9.1 .IPS Patch (SNES)</a> (Update #1)
+					<a href="https://github.com/ShrineFox/EarthBound-Mod-Menu/releases/"><img src="./images/projects/EarthBound/eb_present.png" style="height:32px;"> v0.9.2 .EBP Patch</a> (Update #2)
+					<br>Last updated 8/24/25.
 					<br>
 					<br>Use <a href="https://www.marcrobledo.com/RomPatcher.js/">an online ROM patcher</a> to apply the patch to your EarthBound ROM.
 				</center>
@@ -176,7 +177,7 @@
 			<div class="ebborder top"> </div>
 			<div class="innercontainer">
 				<center>
-					ShrineFox 2024.
+					ShrineFox 2024 - 2025.
 					<br>We are not affiliated, associated, authorized, endorsed by, or in any way officially connected with Nintendo, 
 					or any of its subsidiaries or its affiliates.<br>The official Nintendo website can be found at 
 					<a href="https://nintendo.com">https://nintendo.com</a>. "EarthBound" / "MOTHER" are registered trademarks of <a href="https://1101.com/">SHIGESATO ITOI</a> & <a href="https://www.creatures.co.jp/en/company/">CREATURES Inc.</a>.
